@@ -24,8 +24,8 @@
 - Windows 10 ve 11 – Tüm Windows sistemlerinde sorunsuz çalışır.
 - Google Chrome güncel sürüm - Bot, tarayıcı üzerinden çalıştığı için sisteminizde Google Chrome tarayıcısının en güncel sürümü bulunmalıdır.
 
-1. Sahibinden.CoM_Bildirim_Botu.zip dosyasını arşivden çıkart.
-2. Botu Başlat uygulamasına sağ tıkla ve "Yönetici Olarak Çalıştır".
+1. **<a href="https://github.com/methimi/Sahibinden.CoM-yeni-ilan-anlik-bildirim-botu/releases/download/Sahibinden.CoM_Bildirim_Botu/Sahibinden.CoM_Bildirim_Botu.zip">Sahibinden.CoM_Bildirim_Botu.zip</a>** dosyasını arşivden çıkart.
+2. **Botu Başlat** uygulamasına sağ tıkla ve "Yönetici Olarak Çalıştır".
 3. Botun senden istediği talimatları sırasıyla uygula.
 
 ---
