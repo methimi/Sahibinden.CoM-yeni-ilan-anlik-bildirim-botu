@@ -1,7 +1,7 @@
 # 📢 Sahibinden.com Yeni İlan Anlık Bildirim Botu
 > Sahibinden.com üzerinde favori aramalar listenize uygun **yeni ilanları anında tespit eden** ve **Telegram ile bildirim gönderen** güçlü bir Python botu.
 <br><br>
-**<a href="https://github.com/methimi/Sahibinden.CoM-yeni-ilan-anlik-bildirim-botu/releases/download/Sahibinden.CoM_Bildirim_Botu/Sahibinden.CoM_Bildirim_Botu.zip">Windows için indir!</a>**
+**<a href="https://github.com/methimi/Sahibinden.CoM-yeni-ilan-anlik-bildirim-botu/releases/download/Sahibinden.CoM_Bildirim_Botu/Sahibinden.CoM_Bildirim_Botu.zip">Windows için indir! (v1.0.5)</a>**
 ---
 
 ## 🚀 Özellikler
@@ -23,6 +23,7 @@
 ## 📚 Gereksinimler ve Kullanım Talimatları?
 - Windows 10 ve 11 – Tüm Windows sistemlerinde sorunsuz çalışır.
 - Google Chrome güncel sürüm - Bot, tarayıcı üzerinden çalıştığı için sisteminizde Google Chrome tarayıcısının en güncel sürümü bulunmalıdır.
+- Bu BOT, Sahibinden.com üzerindeki **Favori Aramalar** listenizi referans alarak çalışır. 
 
 1. **<a href="https://github.com/methimi/Sahibinden.CoM-yeni-ilan-anlik-bildirim-botu/releases/download/Sahibinden.CoM_Bildirim_Botu/Sahibinden.CoM_Bildirim_Botu.zip">Sahibinden.CoM_Bildirim_Botu.zip</a>** dosyasını arşivden çıkart.
 2. **Botu Başlat** uygulamasına sağ tıkla ve "Yönetici Olarak Çalıştır".
