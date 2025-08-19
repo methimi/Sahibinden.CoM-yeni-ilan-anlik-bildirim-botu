@@ -53,3 +53,4 @@
 
 ## Her türlü destek ve geri bildirim için Telegram adresim: @methimi
 
+#sahibinden #ilan #anlık #bildirim #botu
