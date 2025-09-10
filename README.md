@@ -6,7 +6,7 @@
 - Telegram bildirimleri modern bir görünüme kavuştu
 - Bildirimlere kategori sınıfına göre ikonlar eklendi
 - Hata düzeltmeleri ve küçük değişiklikler
-- 
+  
 ---
 
 ## 🚀 Özellikler
