@@ -3,8 +3,11 @@
 <br><br>
 **✅ <a href="https://github.com/methimi/Sahibinden.CoM-yeni-ilan-anlik-bildirim-botu/releases/download/Sahibinden.CoM_Bildirim_Botu/Sahibinden.CoM_Bildirim_Botu.zip">Windows için indir!</a>**
 ### Güncelleme Notları 
-### (v1.1.3) *
-- Optimizasyon ayarları yenilendi
+### (v1.1.4) *
+- Performans optimizasyon
+
+### (v1.1.3)
+- Performans optimizasyon
 
 ### (v1.1.2)
 - Telegram bildirimleri modern bir görünüme kavuştu
