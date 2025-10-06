@@ -3,7 +3,10 @@
 <br><br>
 **✅ <a href="https://github.com/methimi/Sahibinden.CoM-yeni-ilan-anlik-bildirim-botu/releases/download/Sahibinden.CoM_Bildirim_Botu/Sahibinden.CoM_Bildirim_Botu.zip">Windows için indir!</a>**
 ### Güncelleme Notları 
-### (v1.1.4) *
+### (v1.1.5) *
+- İlan bulamama durumunda scriptin çökme sorunu düzeltildi
+
+### (v1.1.4)
 - Performans optimizasyon
 
 ### (v1.1.3)
